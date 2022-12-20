@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Putri!
+- 👋 Hi, I’m Dwi!
 - 📫 I reside in Indonesia, we can always connect here on Github!
 - 👀 Am a die hard fan of Curb Your Enthusiasm and Modern Family
 - 🌱 Subjects that I'm looking for growth on are big data visualization, and machine learning. Happy to collaborate!
