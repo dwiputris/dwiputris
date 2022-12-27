@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dwi!
 - 📫 I reside in Indonesia
-- 👀 Am a die hard fan of Curb Your Enthusiasm and Modern Family
-- 🌱 Subjects that I'm looking for growth on are big data visualization, and machine learning. Happy to collaborate!
+- 👀 Looking for opportunity to solve actual real-world problems
+- 🌱 Subjects that I'm looking for growth on are big data visualization, and machine learning. Happy to receive feedback and collaborate!
 
 <!---
 dwiputris/dwiputris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
